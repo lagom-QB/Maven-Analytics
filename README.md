@@ -1,6 +1,6 @@
 # Maven-Analytics
 
-Ana indepth analysis, looking at
+An indepth analysis, looking at
 - How have rocket launches trended across time? Has mission success rate increased?
 - Which countries have had the most successful space missions?
 - Which rocket has been used for the most space missions? Is it still active?
